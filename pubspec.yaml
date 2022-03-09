@@ -37,6 +37,7 @@ dependencies:
   provider: ^6.0.2
   dio: ^4.0.4
   flustars: ^2.0.1
+  flex_color_scheme: ^4.2.0
 
 dependency_overrides:
   decimal: 1.5.0
